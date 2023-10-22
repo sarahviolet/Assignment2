@@ -1,0 +1,46 @@
+.controlled__text {
+  margin-top: 20px;
+}
+
+.heading {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 600px;
+}
+
+.signup__input {
+  border: none;
+  border-bottom: 1px solid darkblue;
+  color: darkblue;
+  outline: none;
+  margin-bottom: 30px;
+  font-size: 24px;
+}
+
+.button__input {
+  border: none;
+  color: white;
+  outline: none;
+  font-size: 24px;
+  background: darkblue;
+  border-radius: 8px;
+  width: 300px;
+  margin: 0 auto;
+}
+
+.button__cancel {
+  border: none;
+  color: white;
+  outline: none;
+  font-size: 24px;
+  background: gray;
+  border-radius: 8px;
+  width: 300px;
+  margin: 0 auto;
+}
